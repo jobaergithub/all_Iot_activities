@@ -1,0 +1,98 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1511418531800,
+        "modified": 1511418531800,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "cfg-app-platform.js": {
+        "previousModTime": 1511418531821,
+        "modified": 1511418531821,
+        "seen": true,
+        "name": "cfg-app-platform.js"
+      },
+      "LedBlink.xdk": {
+        "previousModTime": 1511418532152,
+        "modified": 1511418532152,
+        "seen": true,
+        "name": "LedBlink.xdk"
+      },
+      "LedBlink.xdke": {
+        "previousModTime": 1511426170778,
+        "modified": 1511426170778,
+        "seen": true,
+        "name": "LedBlink.xdke"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1511418531800,
+        "modified": 1511418531800,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1511423335813,
+        "modified": 1511423335813,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1511418531801,
+        "modified": 1511418531801,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1511418531803,
+        "modified": 1511418531803,
+        "seen": true,
+        "name": "README.md"
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1511418531810,
+        "modified": 1511418531810,
+        "seen": true,
+        "name": "utl/version-compare.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1511418532079,
+        "modified": 1511418532079,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "cfg-app-platform.js": {
+        "previousModTime": 1511427774321
+      },
+      "LICENSE.md": {
+        "previousModTime": 1511427774321
+      },
+      "main.js": {
+        "previousModTime": 1511427774321
+      },
+      "package.json": {
+        "previousModTime": 1511427774321
+      },
+      "README.md": {
+        "previousModTime": 1511427774321
+      },
+      "utl/version-compare.js": {
+        "previousModTime": 1511427774321
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1511427774321
+      }
+    }
+  }
+}
